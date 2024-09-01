@@ -11,4 +11,5 @@ excel 파일에 저장된 요약 정보를 확인할 수 있는 탭입니다.
 CNN을 이용하여 이미지를 판단하는 ai 파트를 담당하였습니다.
 
 시연영상
+
 ![LPMS simulation](https://github.com/user-attachments/assets/5ef19650-6dfc-43a4-ba59-5ef795c42939)
